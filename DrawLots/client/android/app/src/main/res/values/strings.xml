@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">抽签软件</string>
+    
+    <!-- 通用 -->
+    <string name="loading">加载中…</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="submit">提交</string>
+    <string name="error_message">出错了，请稍后再试</string>
+    
+    <!-- 登录 -->
+    <string name="login">登录</string>
+    <string name="login_with_dingtalk">钉钉登录</string>
+    <string name="login_with_feishu">飞书登录</string>
+    <string name="login_failed">登录失败</string>
+    
+    <!-- 抽签 -->
+    <string name="draw_lots">抽签</string>
+    <string name="available_buildings">可选楼层</string>
+    <string name="selected_buildings">已抽签楼层</string>
+    <string name="select_building">选择楼层</string>
+    <string name="draw_success">抽签成功</string>
+    <string name="draw_failed">抽签失败</string>
+    <string name="building_already_selected">该楼层已被选择</string>
+    <string name="ip_already_used">您的IP已参与过抽签</string>
+    
+    <!-- VIP -->
+    <string name="vip_application">VIP申请</string>
+    <string name="organization">组织名称</string>
+    <string name="reason">申请理由</string>
+    <string name="apply_vip">申请VIP</string>
+    <string name="vip_application_success">VIP申请提交成功</string>
+    <string name="vip_application_failed">VIP申请提交失败</string>
+    <string name="vip_application_status">申请状态</string>
+    <string name="vip_status_pending">审核中</string>
+    <string name="vip_status_approved">已通过</string>
+    <string name="vip_status_rejected">已拒绝</string>
+    
+    <!-- 管理员 -->
+    <string name="admin_approve">批准</string>
+    <string name="admin_reject">拒绝</string>
+    <string name="admin_vip_days">VIP有效天数</string>
+</resources> 
